@@ -9,7 +9,9 @@ BOOST
 **For MAC:** It is convenient to install in /usr/local/Cellar/
 
   `cd boost_1_56_0`
+  
   `./bootstrap.sh --prefix=./`
+  
   `./b2`
   *After installation is done:*
   
