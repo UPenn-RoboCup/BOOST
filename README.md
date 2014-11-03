@@ -13,6 +13,7 @@ BOOST
   `./bootstrap.sh --prefix=./`
   
   `./b2`
+  
   *After installation is done:*
   
   `ln -s /usr/local/Cellar/boost_1_56_0/boost /usr/local/include/boost`
